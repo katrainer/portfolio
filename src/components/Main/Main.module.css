@@ -9,6 +9,7 @@
 .mainContainer {
     flex-direction: row;
     flex-wrap: wrap;
+    text-align: center;
 }
 
 .aboutMeInfo {

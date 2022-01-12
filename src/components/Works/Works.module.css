@@ -1,5 +1,5 @@
 .works{
-    height: 100vh;
+    min-height: 100vh;
     background-color: #ffdf1a;
     display: flex;
     justify-content: center;
