@@ -1,5 +1,5 @@
 .recruit{
-    height: 30vh;
+    min-height: 30vh;
     background-color: #adff92;
     display: flex;
     justify-content: center;
