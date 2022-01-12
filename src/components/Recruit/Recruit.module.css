@@ -1,0 +1,8 @@
+.recruit{
+    height: 30vh;
+    background-color: #adff92;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
