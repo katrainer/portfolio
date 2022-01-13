@@ -9,13 +9,13 @@ export const Contacts = ()=>{
         <div className={s.contacts}>
             <div className={sContainer.container}>
                 <h2>Контакты</h2>
-                <div className={s.contactsForm}>
-                    <form action="">
+                {/*<div className={s.contactsForm}>*/}
+                    <form action="" className={s.contactsForm}>
                         <input type="text"/>
                         <input type="text"/>
                         <textarea name="" id="" cols="30" rows="10"></textarea>
                     </form>
-                </div>
+                {/*</div>*/}
                 <SuperButton onClick={onclickHandler} title='Отправить'/>
             </div>
         </div>

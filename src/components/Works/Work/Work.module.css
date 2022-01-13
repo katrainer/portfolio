@@ -13,7 +13,8 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #adff92;
+    background-image: url("https://bipbap.ru/wp-content/uploads/2017/09/1476347564_krasavicy-koshki-i-koty-1.jpg");
+    background-position: center;
 }
 
 .workButton {
@@ -30,4 +31,6 @@
 
 .workText p {
     background-color: red;
+    box-sizing: border-box;
+    padding: 5px;
 }
