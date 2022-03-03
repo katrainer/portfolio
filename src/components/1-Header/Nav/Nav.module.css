@@ -1,0 +1,16 @@
+.nav {
+    width: 400px;
+    display: flex;
+    justify-content: space-around;
+    margin-right: 40px;
+
+    font-size: 18px;
+    font-weight: 650;
+    line-height: 40px;
+    letter-spacing: .4px;
+}
+
+.nav a{
+    text-decoration: none;
+    color: white;
+}

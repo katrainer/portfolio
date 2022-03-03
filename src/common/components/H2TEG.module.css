@@ -1,0 +1,24 @@
+.h2teg {
+    margin: 0 0 10px;
+    color: #fff;
+    font: 300 36px/1.2 'Open Sans Condensed', sans-serif;
+    letter-spacing: 5px;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.h2teg span {
+    margin: 0;
+}
+
+.line {
+    width: 70px;
+    /*border-bottom: #4e93e6 1px solid;*/
+    border-bottom: white 1px solid;
+    margin: 10px;
+}

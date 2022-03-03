@@ -1,0 +1,15 @@
+.skills{
+    min-height: 100vh;
+    background-color: #252527;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.skillContainer{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+}

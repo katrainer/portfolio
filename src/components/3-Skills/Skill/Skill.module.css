@@ -1,0 +1,37 @@
+.skill{
+    width: 200px;
+    /*border: 1px solid;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    box-shadow: 0px 0px 10px black;
+margin: 5px;
+}
+
+.skillPhoto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.skillPhoto img{
+    width: 100px;
+    margin-top: 10px;
+}
+
+.skill span{
+    box-sizing: border-box;
+    padding: 5px;
+}
+
+.skillInfo{
+ padding-top: 15px;
+}
+.skill h3{
+    text-transform: uppercase;
+    margin: 0 0 15px;
+    padding: 0;
+    font-size: 16px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}

@@ -1,0 +1,15 @@
+.works{
+    min-height: 100vh;
+    background-color: #1f1f20;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.workContainer{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+}

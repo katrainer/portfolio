@@ -1,0 +1,17 @@
+.recruit{
+    min-height: 30vh;
+    background-color: #252527;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+button{
+    text-decoration: none;
+    color: white;
+    border: white 1px solid;
+    border-radius: 20px;
+    background-color: #252527;
+    min-width: 80px;
+    height: 30px;
+}
